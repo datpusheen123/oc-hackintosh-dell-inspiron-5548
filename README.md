@@ -7,7 +7,7 @@
 - Ethernet: Realtek PCle FE Family Controller
 - GPU: Intel(R) HD Graphics 5500
 - Intergrated Webcam
-- USB: 1x 2.0 USB, 1x 3,0 USB
+- USB: 1x 2.0 USB, 1x 3.0 USB
 - Wifi/Bluetooth: Intel(R) Dual Band Wireless-AC 3160
 
 ### Working
