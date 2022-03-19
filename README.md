@@ -2,13 +2,13 @@
 ### Specifications:
 - Audio: 
 - Built-in Microphone
-- CPU:
+- CPU: i5-5200U
 - Display:
-- Ethernet:
-- GPU:
+- Ethernet: Realtek PCle FE Family Controller
+- GPU: Intel(R) HD Graphics 5500
 - Intergrated Webcam
-- USB:
-- Wifi/Bluetooth: AC 3160
+- USB: 1x 2.0 USB, 1x 3,0 USB
+- Wifi/Bluetooth: Intel(R) Dual Band Wireless-AC 3160
 
 ### Working
 
