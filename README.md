@@ -14,6 +14,4 @@
 
 ### Not Working
 
-All informations above are tested on MacOS
-
 # [Download EFI here](https://github.com/datpusheen123/oc-hackintosh-dell-inspiron-5548/releases)
